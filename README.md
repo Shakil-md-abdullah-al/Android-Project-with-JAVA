@@ -7,7 +7,7 @@ The projects presented here are more than just lines of code; they are the embod
 
 Repository Title: Android and Flutter Practice Projects
 
-**Project Highlights:**
+<h2>Project Highlights</h2>
 1. **Android Projects**: Explore a series of Android-based projects that demonstrate essential skills and techniques in Java. These projects cover topics like user interface design, data handling, networking, and more. Whether you're a beginner looking to learn Android development or an experienced developer seeking inspiration, these projects offer valuable insights.
 
 2. **Flutter Projects**: Dive into the world of cross-platform mobile app development with Flutter. Flutter is a versatile framework for building natively compiled applications for mobile, web, and desktop from a single codebase. Discover how to create beautiful and functional apps using Dart, the language behind Flutter, through a selection of demo projects.
