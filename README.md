@@ -1,4 +1,12 @@
 # Android-Project-with-JAVA
+🌐 Social Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdullah-al-shakil-98882718a/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/shakilmdabdullahal)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=contact.shakil3300@gmail.com)
+[![Facebook Page](https://img.shields.io/badge/Facebook%20Page-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/maashakil/)
+[![GitHub Follow](https://img.shields.io/badge/GitHub-Follow%20Me-black?logo=github&logoColor=white)](https://github.com/Shakil-md-abdullah-al)
+</br>
 Welcome to the "Android and Flutter Practice Projects" repository! This dynamic collection serves as a dedicated space for honing Android and Flutter development skills through a curated set of engaging projects. In this repository, you'll find a wealth of hands-on experience, showcasing various aspects of Android app development in Java and the art of crafting cross-platform mobile applications using Flutter.
 
 These projects are not just mere code exercises; they are demonstrations of creativity, innovation, and a commitment to mastering the craft of mobile app development. Whether you are an aspiring developer taking your first steps into the Android ecosystem, a seasoned pro looking to fine-tune your skills, or someone intrigued by the possibilities of Flutter, this repository offers a wealth of inspiration and learning opportunities.
